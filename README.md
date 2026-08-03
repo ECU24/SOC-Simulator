@@ -12,6 +12,7 @@ This repository demonstrates my ability to:
 - Recommend remediation actions 
 
 <h2>🛠️ Tools & Skills Used</h2>
+
 - SIEM (Splunk) log searching and correlation
 - Email header/IOC analysis
 - Phishing indicator identification (typosquatting, spoofed domains, urgency tactics)
