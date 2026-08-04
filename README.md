@@ -3,6 +3,7 @@
 A collection of security alert investigations completed during a hands-on SOC simulator experience on TryHackMe. Each case includes the alert details, investigation steps, SIEM queries used, findings and final verdict. 
 
 <h2> 🎯 Purpose</h2>
+
 This repository demonstrates my ability to:
 - Triage and investigate phishing/security alerts
 - Write and interpret SIEM search queries (Splunk SPL)
