@@ -55,7 +55,7 @@ Screenshot 3 & 4 show there were no proxy or firewalls logs associated with the 
 True Positive. No escalation required, as there is no evidence of user 
 interaction with the phishing email or successful compromise.
 
-<h3>❗️❗️❗️ Recommended Remediation Actions:</h3>
+<h3>❗️ Recommended Remediation Actions:</h3>
 
 - Block sender domain hrconnex.thm at the email gateway/firewall
 - Alert j.garcia and any other recipients not to click the link in the phishing email 
