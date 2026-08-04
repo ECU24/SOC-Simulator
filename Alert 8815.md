@@ -59,6 +59,14 @@ True Positive. No escalation required, as the malicious connection was
 successfully blocked and there is no evidence the recipient or any other 
 entity was able to access the link.
 
+<h3>❗️ Recommended Remediation Actions:</h3>
+- Block sender domain amazon.biz and the shortlink bit.ly/3sHkX3da12340 
+  at the email gateway/proxy
+- Notify h.harris of the phishing attempt and confirm no further action 
+  was taken on her end
+- Continue monitoring for similar Amazon-themed phishing emails targeting 
+  other recipients
+
 
 
 
