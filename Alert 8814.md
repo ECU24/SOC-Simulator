@@ -48,7 +48,15 @@ Screenshot 1 shows the query used to output the two logs shown in the Screenshot
 
 ![Evidence 2.2](screenshots/Evidence-8814/Evidence2.2.png) 
 
-Screenshot 3 & 4 show there were no proxy or firewalls logs assocaited with the domain hrconnex.thm. 
+Screenshot 3 & 4 show there were no proxy or firewalls logs associated with the domain hrconnex.thm. 
+
+<h3>❗️❗️❗️ Recommended Remediation Actions:</h3>
+
+- Block sender domain hrconnex.thm at the email gateway/firewall
+- Alert j.garcia and any other recipients not to click the link in the phishing email 
+- Continue monitoring for further emails from the domain (hrconnex.thm) or similar onboarding-themed lures
+
+
 
 
 
