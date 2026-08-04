@@ -30,21 +30,21 @@ Time of Alert: 27/07/2026 5:40 pm
 
 <h3>🕵️‍♂️ Evidence</h3>
 
-<h4>Screenshot 1</h3>
+<h4>Screenshot 1</h4>
 
 ![Evidence 1.1](screenshots/Evidence-8814/Evidence1.1.png)
 
-<h4>Screenshot 2</h3>
+<h4>Screenshot 2</h4>
 
 ![Evidence 1.2](screenshots/Evidence-8814/Evidence1.2.png)
 
 Screenshot 1 shows the query used to output the two logs shown in the Screenshot 2. These email logs show the two emails received by j.garcia@thetrydaily.thm within 6 minutes of each other. 
 
-<h4>Screenshot 3</h3>
+<h4>Screenshot 3</h4>
 
 ![Evidence 2.1](screenshots/Evidence-8814/Evidence2.1.png) 
 
-<h4>Screenshot 4</h3>
+<h4>Screenshot 4</h4>
 
 ![Evidence 2.2](screenshots/Evidence-8814/Evidence2.2.png) 
 
