@@ -38,7 +38,7 @@ Time of Alert: 27/07/2026 5:40 pm
 
 ![Evidence 1.2](screenshots/Evidence-8814/Evidence1.2.png)
 
-Screenshot 1 shows the query used to output the two logs shown in the Screenshot 2. These email logs show the two emails received by j.garcia@thetrydaily.thm within 6 minutes of each other. 
+Screenshot 1 shows the query used to output the two logs shown in Screenshot 2. These email logs show the two emails received by j.garcia@thetrydaily.thm within 6 minutes of each other. 
 
 <h4>Screenshot 3</h4>
 
@@ -48,7 +48,7 @@ Screenshot 1 shows the query used to output the two logs shown in the Screenshot
 
 ![Evidence 2.2](screenshots/Evidence-8814/Evidence2.2.png) 
 
-Screenshot 3 & 4 show there were no proxy or firewalls logs associated with the domain hrconnex.thm. 
+Screenshots 3 & 4 show there were no proxy or firewall logs associated with the domain hrconnex.thm. 
 
 <h3>🫡 Final Verdict:</h3>
 
