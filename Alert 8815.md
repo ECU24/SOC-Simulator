@@ -40,15 +40,25 @@ Time of Alert: 27/07/2026 5:43 pm
 
 <h4>Screenshot 1</h4>
 
-![Evidence 1.1](screenshots/Evidence-8815/Evidence3.1.png)
+![Evidence 3.1](screenshots/Evidence-8815/Evidence3.1.png)
 
 <h4>Screenshot 2</h4>
 
-![Evidence 1.2](screenshots/Evidence-8815/Evidence3.2.png)
+![Evidence 3.2](screenshots/Evidence-8815/Evidence3.2.png)
 
 Screenshot 1 shows the query used to output the logs shown in Screenshot 2. This email log shows the email received by h.harris@thetrydaily.thm. 
 
 <h4>Screenshot 3</h4>
+
+![Evidence 4.0](screenshots/Evidence-8815/Evidence4.png)
+
+Screenshot 3 shows the firewall log blocking access to http://bit.ly/3sHkX3da12340
+
+<h3>🫡 Final Verdict:</h3>
+True Positive. No escalation required, as the malicious connection was 
+successfully blocked and there is no evidence the recipient or any other 
+entity was able to access the link.
+
 
 
 
