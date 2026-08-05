@@ -26,7 +26,7 @@ Time of Alert: 27/07/2026 5:45 pm
 
 ![Evidence 5.0](screenshots/Evidence-8816/Evidence5.png)
 
-Screenshot 3 shows the firewall log blocking access to http://bit.ly/3sHkX3da12340
+Screenshot 1 shows the firewall log blocking access to http://bit.ly/3sHkX3da12340
 
 <h4>Screenshot 2</h4>
 
@@ -35,6 +35,16 @@ Screenshot 3 shows the firewall log blocking access to http://bit.ly/3sHkX3da123
 <h4>Screenshot 3</h4>
 
 ![Evidence 6.2](screenshots/Evidence-8816/Evidence6.2.png)
+
+Screenshots 2 & 3 show the TryDetectThis scan result of the malicious link (http://bit.ly/3sHkX3da12340)
+
+<h3>🫡 Final Verdict:</h3>
+True Positive. No escalation required, as there is no evidence showing 
+the source IP or any other IP was able to access the link.
+
+<h3>❗️ Recommended Remediation Actions:</h3>
+- Continue to block the URL http://bit.ly/3sHkX3da12340
+- Hannah Harris requires training to detect suspicious emails
 
 
 
