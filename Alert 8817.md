@@ -50,6 +50,25 @@ Screenshot 1 shows an email log showing the email was received by c.allen@thetry
 
 Screenshot 2 shows a firewall log showing access was allowed to the link (https://m1crosoftsupport.co/login) from the email recipient's IP (10.20.2.25). 
 
+<h3>🫡 Final Verdict:</h3>
+
+True Positive. Escalation Required. The suspicious link was allowed 
+through the firewall, meaning the user's endpoint successfully connected 
+to the phishing infrastructure. There is a possibility the user 
+landed on a fake Microsoft login page and entered their credentials.
+
+<h3>❗️ Recommended Remediation Actions:</h3>
+
+- Block sender domain m1crosoftsupport.co at the email gateway/proxy/firewall
+- Notify Charlotte Allen of the confirmed phishing attempt and ask whether 
+  she entered any credentials on the page
+- Reset Allen's credentials immediately (especially Microsoft account) 
+  as a precaution
+- Review authentication logs for Allen's account for any suspicious 
+  sign-ins following the connection
+- Escalate to Tier 2/Incident Response for further investigation
+- Charlotte Allen requires training to detect suspicious emails and URLs
+
 
 
 
