@@ -43,8 +43,9 @@ True Positive. No escalation required, as there is no evidence showing
 the source IP or any other IP was able to access the link.
 
 <h3>❗️ Recommended Remediation Actions:</h3>
+
 - Continue to block the URL http://bit.ly/3sHkX3da12340
-- Hannah Harris requires training to detect suspicious emails
+- Hannah Harris requires training to detect suspicious emails and URLs
 
 
 
