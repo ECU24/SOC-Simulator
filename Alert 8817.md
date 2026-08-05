@@ -42,9 +42,17 @@ Investigation Steps Taken:
 
 ![Evidence 7.0](screenshots/Evidence-8817/Evidence7.png)
 
+Screenshot 1 shows an email log showing the email was received by c.allen@thetrydaily.thm. 
+
 <h4>Screenshot 2</h4>
 
 ![Evidence 8.0](screenshots/Evidence-8817/Evidence8.png)
+
+Screenshot 2 shows a firewall log showing access was allowed to the link (https://m1crosoftsupport.co/login) from the email recipient's IP (10.20.2.25). 
+
+
+
+
 
 
 
